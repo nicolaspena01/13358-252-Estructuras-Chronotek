@@ -1,0 +1,9 @@
+Nombre:Dennis Ary Franco Molina
+Edad:29
+Programa académico:Ingenieria de sistemas
+Semestre actual:8
+Algo extraño que te gusta hacer:Coleccionar vasos de peliculas que venden los cinemas
+Color favorito:Negro
+¿Tienes mascotas? (¿cuáles?): si, una perrita
+Intereses en el desarrollo de software (por ejemplo, desarrollo web, apps móviles, videojuegos,
+etc.):Desarrollo fullstack
