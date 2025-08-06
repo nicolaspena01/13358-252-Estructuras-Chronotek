@@ -2,7 +2,7 @@ Nombre: Nicolas Arenas
 Edad: 27 años
 Programa académico: Ingenieria de Sistemas
 Semestre actual: Homologante
-Algo extraño que te gusta hacer: 
+Algo extraño que te gusta hacer: Me gusta coleccionar balones de futbol
 Color favorito: Negro
 ¿Tienes mascotas? (¿cuáles?): Si, Perra(Letty), Gata(Mia), Gata(Pelusa)
 Intereses en el desarrollo de software (por ejemplo, desarrollo web, apps móviles, videojuegos, etc.): Desarrollo Web, Desarrollo Movil, Desarrollo Backend
