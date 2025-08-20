@@ -16,5 +16,5 @@ class variable{
 
 triangulo
 cuadrado
-reptangulo
+rectangulo
 circulo
