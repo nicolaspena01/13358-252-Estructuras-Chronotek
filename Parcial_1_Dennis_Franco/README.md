@@ -25,3 +25,10 @@ video_url.txt (contiene la URL del video explicativo)
 cd src
 javac Student.java Algorithms.java Main.java      # compila
 java Main                                         # ejecuta
+
+## Compilar y ejecutar (con `package Parcial_1_Dennis_Franco`)
+
+> Esta opción asume que los tres archivos (`Student.java`, `Algorithms.java`, `Main.java`) empiezan con:
+> ```java
+> package Parcial_1_Dennis_Franco;
+> ```
