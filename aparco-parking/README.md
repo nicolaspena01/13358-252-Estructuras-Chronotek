@@ -40,54 +40,54 @@ La aplicación permite:
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Crear un sistema de administración de parqueaderos que aplique **todas las estructuras de datos del curso**, usando una interfaz gráfica funcional que permita demostrar su uso real en un contexto práctico.
 
 ---
 
-## 🚀 Características principales
+## Características principales
 
-### ✔️ Interfaz gráfica moderna en Swing
+### Interfaz gráfica moderna en Swing
 
 * Nada funciona por consola.
 * Todo es visual, con ventanas, botones, listas y paneles interactivos.
 
-### ✔️ Registro de vehículos
+### Registro de vehículos
 
 * Llegada → Cola FIFO
 * Asignación automática → Toma el primero en la cola
 * Asignación directa → Puedes elegir una plaza libre
 
-### ✔️ Gestión de plazas
+### Gestión de plazas
 
 * Array estático `Plaza[]`
 * Cada plaza muestra: LIBRE / OCUPADA + placa
 
-### ✔️ Tickets con fecha formateada
+### Tickets con fecha formateada
 
 Formato usado en toda la UI:
 `Mar, 16 Nov 13:00 pm`
 
-### ✔️ Árbol BST
+### Árbol BST
 
 * Búsqueda rápida de vehículos dentro por placa
 * Inserción y eliminación cuando entran/salen
 
-### ✔️ Min-Heap
+### Min-Heap
 
 * Identifica los **próximos vehículos en salir**
 
-### ✔️ Pilas (Stack) – UNDO
+### Pilas (Stack) – UNDO
 
 * Deshacer última acción de entrada o salida
 
-### ✔️ Colas (Queue)
+### Colas (Queue)
 
 * Cola de entrada de vehículos
 * Cola de tickets cerrados
 
-### ✔️ Reportes avanzados
+### Reportes avanzados
 
 Puedes ordenar por:
 
@@ -104,13 +104,13 @@ Usando:
 
 Incluye búsqueda binaria.
 
-### ✔️ Exportación e importación CSV
+### Exportación e importación CSV
 
 Respaldar e importar historial de tickets.
 
 ---
 
-## 🧩 Arquitectura del proyecto
+## Arquitectura del proyecto
 
 ```
 src/
@@ -135,7 +135,7 @@ src/
 
 ---
 
-## 📚 Estructuras de datos utilizadas
+## Estructuras de datos utilizadas
 
 | Estructura           | Ubicación      | Uso en el sistema                      |
 | -------------------- | -------------- | -------------------------------------- |
@@ -151,7 +151,7 @@ src/
 
 ---
 
-## 🧠 Requerimientos funcionales (resumen)
+## Requerimientos funcionales (resumen)
 
 * RF01 – Registrar llegada
 * RF02 – Asignar plaza (auto)
@@ -172,7 +172,7 @@ src/
 
 ---
 
-## 🧠 Requerimientos no funcionales
+## Requerimientos no funcionales
 
 * Portabilidad con Java 17
 * Uso obligatorio de estructuras del curso
@@ -186,7 +186,7 @@ src/
 
 ---
 
-## 👤 Historias de usuario
+## Historias de usuario
 
 Las 10 historias de usuario están documentadas en la Wiki:
 
@@ -203,7 +203,7 @@ Las 10 historias de usuario están documentadas en la Wiki:
 
 ---
 
-## 📐 Diagrama UML (ER)
+## Diagrama UML (ER)
 
 ```
 Vehiculo (placa PK, tipo)
@@ -218,7 +218,7 @@ Configuracion (idConfig PK, tarifaHora)
 
 ---
 
-## 💻 Capturas de ejemplo (simuladas para README)
+## Capturas de ejemplo (simuladas para README)
 
 > Estado de plazas
 > Cola de entrada
