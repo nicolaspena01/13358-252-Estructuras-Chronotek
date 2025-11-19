@@ -2,14 +2,14 @@
 
 ### Proyecto Final – Estructuras de Datos
 
-**Autores:** *[Tu nombre] – [Compañero]*
+**Autores:** *Dennis Franco – Nicolas Arenas*
 **Lenguaje:** Java 17
 **Interfaz:** Swing (GUI)
 **Paradigma:** Programación Orientada a Objetos + Estructuras de Datos
 
 ---
 
-## 📖 Descripción general
+## Descripción general
 
 **AparcoCLI** es un sistema de escritorio desarrollado en **Java** que permite gestionar un parqueadero mediante una interfaz gráfica moderna construida con **Swing**.
 
