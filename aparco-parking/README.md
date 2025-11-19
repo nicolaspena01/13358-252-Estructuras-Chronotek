@@ -218,17 +218,6 @@ Configuracion (idConfig PK, tarifaHora)
 
 ---
 
-## Capturas de ejemplo (simuladas para README)
-
-> Estado de plazas
-> Cola de entrada
-> Datos del ticket
-> Reportes ordenados
-
-*(Puedes agregar imágenes reales una vez ejecutes la app.)*
-
----
-
 ## Cómo ejecutar el proyecto
 
 ### 1. Compilar:
