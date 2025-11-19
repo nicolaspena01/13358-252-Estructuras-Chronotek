@@ -1,10 +1,4 @@
-Aquí tienes un **README.md profesional, completo y listo para GitHub**, totalmente adaptado a tu proyecto final, con toda la documentación clave, capturas simuladas y secciones de explicación bien claras para el profesor y la Semana de la Ingeniería.
-
-Puedes copiarlo tal cual y pegarlo en tu repositorio.
-
----
-
-# 🅿️ AparcoCLI – Sistema de Gestión de Parqueaderos
+# AparcoCLI – Sistema de Gestión de Parqueaderos
 
 ### Proyecto Final – Estructuras de Datos
 
