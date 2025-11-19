@@ -168,7 +168,7 @@ src/
 * RF13 – Reporte ordenado
 * RF14 – Búsqueda binaria en reportes
 
-(Completo en la Wiki)
+(Completo en el documento)
 
 ---
 
@@ -182,13 +182,13 @@ src/
 * Documentación en Wiki
 * Control de versiones con GitHub
 
-(Completo en la Wiki)
+(Completo en el documento)
 
 ---
 
 ## Historias de usuario
 
-Las 10 historias de usuario están documentadas en la Wiki:
+Las 10 historias de usuario están documentadas en el documento:
 
 * Registrar llegada
 * Asignar plaza auto/directa
