@@ -151,7 +151,7 @@ src/
 
 ---
 
-## Requerimientos funcionales (resumen)
+## Requerimientos funcionales
 
 * RF01 – Registrar llegada
 * RF02 – Asignar plaza (auto)
